@@ -1,0 +1,92 @@
+.layout {
+
+    width: 100%;
+
+    max-width: 1024px;
+
+    margin: auto;
+
+    background-color: white;
+
+    border-collapse: collapse;
+
+}
+
+
+
+.layout tr td {
+
+    padding: 30px;
+
+    vertical-align: top;
+
+    border: solid 1px gray;
+
+}
+
+
+
+.header {
+
+    font-size: 30px;
+
+}
+
+
+
+.footer {
+
+    text-align: center;
+
+}
+
+
+
+.sidebarHeader {
+
+    font-size: 20px;
+
+}
+
+
+
+.sidebar ul {
+
+    padding-left: 20px;
+
+}
+
+
+
+a {
+
+    color: rgb(164, 60, 154);
+    font-size: 18px;
+    font-style: italic;
+}
+
+a:visited {
+    color: rgb(82, 0, 107);
+}
+
+input {
+    background-color: rgb(216, 243, 236);
+    padding: 5px;
+    border: 2px solid rgb(19, 116, 113);
+    border-radius: 6px;
+}
+
+.delete__btn {
+    color: brown;
+}
+
+.delete__btn:visited {
+    color: brown;   
+}
+
+.text__input {
+    background-color: rgb(251, 240, 249);
+    padding: 5px;
+    border: 2px solid rgb(112, 97, 106);
+    border-radius: 6px;
+}
